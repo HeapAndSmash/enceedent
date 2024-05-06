@@ -1,0 +1,1 @@
+workspace = { members = [ "crates/inc-clit","crates/inc-core", "crates/inc-server", "crates/inc-tui", "crates/inc-web"] }
